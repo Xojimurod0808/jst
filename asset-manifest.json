@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67a469f0.chunk.css",
+    "main.js": "/static/js/main.64f4c446.chunk.js",
+    "main.js.map": "/static/js/main.64f4c446.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cf769777.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cf769777.js.map",
+    "static/js/2.19e895f8.chunk.js": "/static/js/2.19e895f8.chunk.js",
+    "static/js/2.19e895f8.chunk.js.map": "/static/js/2.19e895f8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.67a469f0.chunk.css.map": "/static/css/main.67a469f0.chunk.css.map",
+    "static/js/2.19e895f8.chunk.js.LICENSE.txt": "/static/js/2.19e895f8.chunk.js.LICENSE.txt",
+    "static/media/Header.scss": "/static/media/Hero-Aria.73cb0f6b.webp",
+    "static/media/MaskGroup.5448afd5.webp": "/static/media/MaskGroup.5448afd5.webp",
+    "static/media/appstroy.dc050393.svg": "/static/media/appstroy.dc050393.svg",
+    "static/media/burger.1c86e033.png": "/static/media/burger.1c86e033.png",
+    "static/media/facebook.fd3b9b78.svg": "/static/media/facebook.fd3b9b78.svg",
+    "static/media/foodLogo.a8784506.svg": "/static/media/foodLogo.a8784506.svg",
+    "static/media/giril.1e826b42.png": "/static/media/giril.1e826b42.png",
+    "static/media/inestagram.ad95de23.svg": "/static/media/inestagram.ad95de23.svg",
+    "static/media/matasenkil.9ef47442.svg": "/static/media/matasenkil.9ef47442.svg",
+    "static/media/fonts.scss": "/static/media/roboto-mono-v13-latin-regular.535bc89d.woff2",
+    "static/media/playMarket.87966850.svg": "/static/media/playMarket.87966850.svg",
+    "static/media/salad.052b9cd1.png": "/static/media/salad.052b9cd1.png",
+    "static/media/salad2.91e8fd07.png": "/static/media/salad2.91e8fd07.png",
+    "static/media/salad3.22fac5b3.png": "/static/media/salad3.22fac5b3.png",
+    "static/media/smail.b7e17ca7.svg": "/static/media/smail.b7e17ca7.svg",
+    "static/media/main.scss": "/static/media/svg.5ea4769e.svg",
+    "static/media/tel.57f4fa73.webp": "/static/media/tel.57f4fa73.webp",
+    "static/media/tuxum.a6e97f1e.png": "/static/media/tuxum.a6e97f1e.png",
+    "static/media/twitter.70d5544b.svg": "/static/media/twitter.70d5544b.svg",
+    "static/media/uyImg.a2294852.svg": "/static/media/uyImg.a2294852.svg",
+    "static/media/yotube.0f87a6bf.svg": "/static/media/yotube.0f87a6bf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf769777.js",
+    "static/js/2.19e895f8.chunk.js",
+    "static/css/main.67a469f0.chunk.css",
+    "static/js/main.64f4c446.chunk.js"
+  ]
+}
